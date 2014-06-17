@@ -84,7 +84,7 @@
 				<li><a href="https://www.facebook.com/TeamTreehouse">Facebook</a></li>
 			</ul>
 
-			<p>&copy;2012 Shirts 4 Mike</p>
+			<p>&copy; <?php echo date ('Y'); ?> Shirts 4 Mike</p>
 
 		</div>
 	
