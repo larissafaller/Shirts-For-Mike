@@ -24,7 +24,7 @@ $pageTitle ="Contact";
 $section ="contact";
 include('inc/header.php'); ?>
 
-<div id="section page">
+<div class="section page">
 
 	<div class="wrapper">
 
