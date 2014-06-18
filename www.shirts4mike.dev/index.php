@@ -1,4 +1,8 @@
-<?php include('inc/header.php'); ?>
+<?php 
+$pageTitle ="Shirts 4 Mike";
+$section ="home";
+include('inc/header.php'); 
+?>
 
 	<div id="content">
 
